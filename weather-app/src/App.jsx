@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import SearchBar from './SearchBar.jsx';
-import WeatherDisplay from './WeatherDisplay.jsx';
+import { SearchBar, WeatherDisplay } from './components';
 
 const API_KEY = '9cd5dfc63d27e464dcd9321351df05e0';
 
